@@ -14,8 +14,8 @@ import org.testng.annotations.Test;
 public class TestPageLoadStrategy {
 
 	public RemoteWebDriver driver = null;
-	String username = "vipul31gupta";
-	String accessKey = "3yz1VWF4GjCOlvG9mTYaKBUV45jS8OiEdKlpfkujQiyjEaMWEq";
+	String username = "<lambdatest_username>";
+	String accessKey = "<lambdatest_accesskey";
 
 	@Test
 	public void testNormalStrategy() {
